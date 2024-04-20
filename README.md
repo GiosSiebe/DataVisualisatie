@@ -21,4 +21,4 @@ This project aims to provide comprehensive visualizations of traffic safety data
 The dataset used in this project is sourced from Statbel and contains detailed information on traffic accidents, casualties, and related factors in Belgium. It includes data at the municipal and provincial levels, allowing for granular analysis of traffic safety trends.
 
 ## Youtubelink
-[Qllck](https://www.youtube.com/watch?v=YUKYCQN7Yzo)
+[Youtube video](https://www.youtube.com/watch?v=YUKYCQN7Yzo)
